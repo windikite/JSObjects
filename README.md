@@ -1,0 +1,1 @@
+My 39th assignment! This assignment was all about objects, as well as making them from constructors. I also used similar principles to working with classes in python to create getter/setter methods to be used instead of direct assignment. The only thing missing from these is a serious pass of input validation and locking out direct property assignment if possible within JS. 
